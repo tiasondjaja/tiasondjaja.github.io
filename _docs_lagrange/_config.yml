@@ -1,0 +1,56 @@
+# Site Build Settings
+
+# Jekyll-paginate-v2 configuration
+#  pagination:
+#   enabled: true
+#   per_page: 5
+#   permalink: '/page/:num/'
+#   title: ':title - page :num of :max'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# jekyll-paginate configuration
+paginate:            
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           /:title
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-redirect-from]
+theme: lagrange
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           'Tia Sondjaja'
+description:	       ''
+author:              'Tia Sondjaja'
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
+
+# for safe mode add these, then run jekyll <cmd> --safe
+#whitelist:
+#  - jekyll-redirect-from
+
+# Collections
+collections:
+  projects:
+    output: true
+  
+  teachingmodules:
+    output: true    
+
+
+
+defaults:
+- scope:
+    path: ""
+    type: "projects"
+  values:
+    layout: "project"
+- scope:
+    path: ""
+    type: "teachingmodules"
+  values:
+    layout: "teachingmodule"
