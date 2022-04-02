@@ -35,11 +35,13 @@ Applied Mathematician<br>
 
 *****
 
-I am a Clinical Assistant Professor in the Department of Mathematics at New York University (NYU), where I have been since September 2014.  I enjoy developing <a href="/teaching">hands-on course materials and projects</a> that connect foundational mathematical ideas to modern applications.  
+I am a Clinical Associate Professor in the Department of Mathematics at New York University (NYU), where I have been since September 2014.  
 
-Outside teaching, I enjoy thinking about how ideas from convex optimization, combinatorics, and geometry can help answer questions that come from the social sciences (including voting and fairness).
+As a math educator, I enjoy developing <a href="/teaching">hands-on course materials and projects</a> that connect foundational mathematical ideas to modern applications in numerical linear algebra, optimization, machine learning, and data science.
+
+In my academic research work, I enjoy thinking about how ideas from convex optimization, combinatorics, and geometry can help answer questions that come from the social sciences (including voting and fairness).
 
 
 <!--I obtained my Ph.D. in Operations Research at Cornell University in 2014; my dissertation work centered around the design and analysis of an optimization algorithm for convex optimization (linear and semidefinite programming).  I obtained my undergraduate degree in mathematics in 2008 from Harvey Mudd College.-->
 
-This site is primarily to house various projects (both [computational](/projects) and [teaching-related](/teaching)).  My academic website is here: [https://cims.nyu.edu/~sondjaja/](https://cims.nyu.edu/~sondjaja/)
+This site is primarily to house various [computational, data-related](/projects), and [teaching-related](/teaching) projects.  My academic website can be found here: [https://cims.nyu.edu/~sondjaja/](https://cims.nyu.edu/~sondjaja/)
