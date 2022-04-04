@@ -18,7 +18,7 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-redirect-from]
-theme: lagrange
+remote-theme: lagrange
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Tia Sondjaja'
