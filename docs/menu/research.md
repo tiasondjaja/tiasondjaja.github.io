@@ -8,7 +8,7 @@ My papers can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 ## Applications of geometric and combinatorial methods in the social sciences
 
-K. Mazur, M. Sondjaja, M. Wright, and C. Yarnall, Piercing Numbers in Circular Societies (Working paper) [[arxiv]] (https://arxiv.org/abs/2008.01749)
+K. Mazur, M. Sondjaja, M. Wright, and C. Yarnall, Piercing Numbers in Circular Societies (Working paper) [[arxiv]](https://arxiv.org/abs/2008.01749)
 
 K. Mazur, M. Sondjaja, M. Wright, and C. Yarnall, Approval Voting in Product Societies, American Mathematical Monthly, vol. 125 (2018), no. 1, 29–43 [[arXiv]](https://arxiv.org/abs/1703.09870)
 
