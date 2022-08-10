@@ -10,8 +10,9 @@ permalink: /about
 Applied Mathematician<br>
 <i class="fa fa-map-marker"></i> New York, NY<br>
 
-<a href="https://github.com/tiasondjaja"><i class="fa fa-github" aria-hidden="true"></i>github.com/tiasondjaja</a><br>
-<a href="https://www.linkedin.com/in/tiasondjaja/"><i class="fa fa-linkedin" aria-hidden="true"></i>linkedin.com/in/tiasondjaja</a><br><br>
+<i class="fa fa-github" aria-hidden="true"></i> <a href="https://github.com/tiasondjaja">github.com/tiasondjaja</a>
+
+<i class="fa fa-linkedin" aria-hidden="true"></i> <a href="https://www.linkedin.com/in/tiasondjaja/">linkedin.com/in/tiasondjaja</a><br><br><br>
 
 
 <!--
