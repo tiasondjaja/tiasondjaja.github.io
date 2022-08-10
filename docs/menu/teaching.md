@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Teaching Modules
+title: Teaching
 permalink: /teaching
 ---
 
 
+
+### Selected Teaching Modules
 {% for module in site.teachingmodules %}
 {% if module.status != 'draft' %}
 + [ **{{ module.name }}** ]( {{ module.url }}) &nbsp; <span style="color:#2B547E">[{{ module.tag | downcase}}]</span>
@@ -15,12 +17,12 @@ permalink: /teaching
 {% endfor %}
 
 
+### Previous Teaching Experiences
 
-<!--
 #### At New York University
++ CORE-UA.111: Quantitative Reasoning: From Data to Discovery
 + CORE-UA.107: Quantitative Reasoning: Probability, Statistics, and Decision-Making
 + CORE-UA.110: Quantitative Reasoning: Great Ideas in Mathematics
-+ CORE-UA.111: Quantitative Reasoning: From Data to Discovery
 + MATH-UA.009: Algebra and Calculus
 + MATH-UA.120: Discrete Mathematics
 + MATH-UA.121-123: Calculus 1-3
@@ -42,5 +44,3 @@ permalink: /teaching
 + Summer Program for Young Scholars, Center for Mathematical Talent, NYU
 + GSTEM Summer Program, NYU
 + Expanding Your Horizons, Cornell University
-
--->
