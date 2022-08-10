@@ -4,8 +4,7 @@ title: About
 permalink: /about
 ---
 
-
-<!--![Tia Sondjaja](assets/img/ms_pic.png)0-->
+<!--
 
 <img style="float: left; padding-right: 20px" src="assets/img/ms_pic.png">
 
@@ -24,7 +23,7 @@ Applied Mathematician<br>
 <i class="fa fa-envelope" aria-hidden="true"></i> msondjaja at gmail<br>
 <a href="https://github.com/tiasondjaja"><i class="fa fa-github" aria-hidden="true"></i></a> tiasondjaja
 <a href="https://github.com/tiasondjaja"><i class="fa fa-github" aria-hidden="true"></i></a> tiasondjaja
--->
+
 
 
 
@@ -43,6 +42,8 @@ My mathematical interests include optimization algorithms, and geometric and top
 
 <!--
 In my academic research work, I enjoy thinking about how ideas from convex optimization, combinatorics, and geometry can help answer questions that come from the social sciences (including voting and fairness).
--->
 
-<!--I obtained my Ph.D. in Operations Research at Cornell University in 2014; my dissertation work centered around the design and analysis of an optimization algorithm for convex optimization (linear and semidefinite programming).  I obtained my undergraduate degree in mathematics in 2008 from Harvey Mudd College.-->
+<!--I obtained my Ph.D. in Operations Research at Cornell University in 2014; my dissertation work centered around the design and analysis of an optimization algorithm for convex optimization (linear and semidefinite programming).  I obtained my undergraduate degree in mathematics in 2008 from Harvey Mudd College.
+
+
+-->
