@@ -6,7 +6,7 @@ permalink: /teaching
 
 
 
-### Selected Teaching Modules
+#### Selected Teaching Modules
 {% for module in site.teachingmodules %}
 {% if module.status != 'draft' %}
 + [ **{{ module.name }}** ]( {{ module.url }}) &nbsp; <span style="color:#2B547E">[{{ module.tag | downcase}}]</span>
@@ -17,9 +17,9 @@ permalink: /teaching
 {% endfor %}
 
 
-### Previous Teaching Experiences
+#### Previous Teaching Experiences
 
-#### At New York University
+##### At New York University
 + CORE-UA.111: Quantitative Reasoning: From Data to Discovery
 + CORE-UA.107: Quantitative Reasoning: Probability, Statistics, and Decision-Making
 + CORE-UA.110: Quantitative Reasoning: Great Ideas in Mathematics
@@ -32,7 +32,7 @@ permalink: /teaching
 + MATH-UA.998: Independent Study (Introduction to Linear and Convex Optimization)
 + CSCI-UA.520-521: Undergraduate Research
 
-#### At Cornell University
+##### At Cornell University
 + ORIE 3310/5310/5311: Optimization 2 (Instructor)
 + Cornell University Prison Education Program, Auburn Correctional Facility: Algebra (Instructor)
 + ORIE 4580/5580: Simulation Modeling and Analysis (Teaching Assistant)
@@ -40,7 +40,7 @@ permalink: /teaching
 + ORIE 3300/5300: Optimization 1 (Teaching Assistant)
 + ORIE 3310/5310/5311: Optimization 2 (Teaching Assistant)
 
-#### Other Teaching and Outreach
+##### Other Teaching and Outreach
 + Summer Program for Young Scholars, Center for Mathematical Talent, NYU
 + GSTEM Summer Program, NYU
 + Expanding Your Horizons, Cornell University

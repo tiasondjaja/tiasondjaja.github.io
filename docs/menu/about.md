@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About
+title: Home
 permalink: /about
 ---
 
@@ -9,26 +9,24 @@ permalink: /about
 **Mutiara (Tia) Sondjaja**
 
 Applied Mathematician<br>
-
 <i class="fa fa-map-marker"></i> New York, NY<br><br><br>
+
+<a href="https://github.com/tiasondjaja"><i class="fa fa-github" aria-hidden="true"></i>github.com/tiasondjaja</a>
+<a href="https://www.linkedin.com/in/tiasondjaja/"><i class="fa fa-linkedin" aria-hidden="true"></i>linkedin.com/in/tiasondjaja</a>
 
 
 <!--
-<a href="https://github.com/tiasondjaja"><i class="fa fa-github" aria-hidden="true"></i></a>
-<a href="https://www.linkedin.com/in/tiasondjaja/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-
-
 <i class="fa fa-envelope" aria-hidden="true"></i> msondjaja at gmail<br>
 <a href="https://github.com/tiasondjaja"><i class="fa fa-github" aria-hidden="true"></i></a> tiasondjaja
 <a href="https://github.com/tiasondjaja"><i class="fa fa-github" aria-hidden="true"></i></a> tiasondjaja
--->
+
 
 
 
 <nav class="social-icons">
     {% include social-icons.html %}
 </nav> <br><br>
-  
+-->  
 
 *****
 
