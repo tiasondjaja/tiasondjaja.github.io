@@ -33,7 +33,7 @@ Applied Mathematician<br>
 I am an applied mathematician and data scientist.  My mathematical interests include applications of mathematical modeling and machine learning techniques to problems involving large-scale datasets, algorithmic foundations of optimization, and geometric and topological combinatorics questions that arise from social science applications (such as voting and fairness).
 
 
-Previously, I was a clinical faculty member in the Department of Mathematics at New York University, where I taught a wide range of undergraduate mathematics courses and led a university-wide effort to revamp the quantitative reasoning element of the undergraduate general education curriculum.  I earned my PhD in Operations Research at Cornell University, where I was advised by James Renegar, and my undergraduate degree in mathematics at Harvey Mudd College.
+Previously, I was a clinical faculty member in the Department of Mathematics at New York University, where I taught a wide range of undergraduate mathematics courses and led a college-wide effort to revamp the quantitative reasoning element of the undergraduate general education curriculum.  I earned my PhD in Operations Research at Cornell University, where I was advised by James Renegar, and my undergraduate degree in mathematics at Harvey Mudd College.
 
 
 
