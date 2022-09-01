@@ -4,7 +4,6 @@ title: Research
 permalink: /research
 ---
 
-My papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=ki_w3A8AAAAJ&hl=en) profile.  My codes can be found on my [GitHub](https://github.com/tiasondjaja).
 
 #### Applications of geometric and combinatorial methods in the social sciences
 
@@ -21,3 +20,7 @@ My papers can be found on my [Google Scholar](https://scholar.google.com/citatio
 
 #### Education and Curriculum Design
 + R. De Veaux, et. al., [*Curriculum Guidelines for Undergraduate Programs in Data Science*](http://www.annualreviews.org/doi/full/10.1146/annurev-statistics-060116-053930), Annu. Rev. Stat. Appl. 2017, 4:2.1-2.16. [[arXiv]](https://arxiv.org/abs/1801.06814)
+
+
+
+My papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=ki_w3A8AAAAJ&hl=en) profile.  My codes can be found on my [GitHub](https://github.com/tiasondjaja).
