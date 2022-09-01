@@ -30,11 +30,16 @@ Applied Mathematician<br>
 
 *****
 
-I am a Clinical Associate Professor in the Department of Mathematics at New York University (NYU), where I have been since September 2014.  
+I am an applied mathematician and data scientist.  My mathematical interests include applications of mathematical modeling and machine learning techniques to problems involving large-scale datasets, algorithmic foundations of optimization, and geometric and topological combinatorics questions that arise from social science applications (such as voting and fairness).
 
-As a math educator, I enjoy developing <a href="/teaching">hands-on course materials and projects</a> that connect foundational mathematical ideas to modern applications in numerical linear algebra, optimization, machine learning, and data science.
 
-My mathematical interests include optimization algorithms, and geometric and topological combinatorics questions that arise from social science applications (such as voting and fairness). Prior to NYU, I completed my PhD in Operations Research at Cornell University, where I was advised by James Renegar; I obtained my undergraduate degree in mathematics at Harvey Mudd College.
+From 2014 to 2022, I was a clinical faculty member in the Department of Mathematics at New York University (NYU), where I taught a wide range of undergraduate mathematics courses and led a university-wide effort to revamp the quantitative reasoning element of the undergraduate general education curriculum.  As an educator, I enjoyed developing <a href="/teaching">hands-on course materials and projects</a> that connect foundational mathematical ideas to modern applications in numerical linear algebra, optimization, and machine learning.  Prior to NYU, I earned my PhD in Operations Research at Cornell University, where I was advised by James Renegar, and my undergraduate degree in mathematics at Harvey Mudd College.
+
+
+
+<!--
+I earned my undergraduate degree in mathematics at Harvey Mudd College and my PhD in Operations Research at Cornell University.  At Cornell, I focused algorithmic foundations for convex optimization and was advised by James Renegar.  From 2014 to 2022, I was a clinical faculty member in the Department of Mathematics at New York University, where I taught a wide range of undergraduate mathematics courses and led a university-wide effort to revamp the quantitative reasoning element of the undergraduate general education curriculum.  As an educator, I enjoyed developing <a href="/teaching">hands-on course materials and projects</a> that connect foundational mathematical ideas to modern applications in numerical linear algebra, optimization, machine learning, and data science.
+
 
 
 <!--
