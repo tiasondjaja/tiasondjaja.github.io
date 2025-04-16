@@ -4,7 +4,7 @@ title: Home
 permalink: /about
 ---
 
-<img style="float: left; padding-right: 20px" src="assets/img/ms_pic.png">
+<img style="float: left; padding-right: 20px; width: 150px" src="assets/img/ms_pic.png">
 
 **Mutiara (Tia) Sondjaja**<br>
 Applied Mathematician<br>
